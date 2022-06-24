@@ -30,8 +30,14 @@ nav ul li{
 }
 
 nav ul li a{
+    display: inline-block;
     text-decoration: none;
-    color: #3f51b5;
+    color: #fff;
+    background: rgba(63, 81, 181, 0.4) ;
+    padding: 10px 20px;
+    font-size: 14px;
+    margin-top: 7px;
+    border-radius: 10px;
 }
 
 .text-box{
